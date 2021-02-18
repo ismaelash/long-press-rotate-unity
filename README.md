@@ -1,9 +1,10 @@
 # long-press-rotate-unity
 Rotate object on axis X, Y and Z on long press button
 
-## Demo
+## Demos
 
-[Click me](https://github.com/ismaelash/long-press-rotate-unity/tree/main/Demo)
+[Video 1](https://www.youtube.com/watch?v=XsdzaTwzPJg)
+[Video 2](https://www.youtube.com/watch?v=rJWivs9Gh8Y)
 
 ## Package download
 
